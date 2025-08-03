@@ -1,3 +1,5 @@
+A Custom Wake Word Detector using a Learning Approach
+
 Project Overview
 
 This repository contains the implementation of a custom "wake word" detector using a deep learning approach. The system is designed to listen to an audio stream in real-time and recognize a specific keyword, demonstrating a complete audio machine learning pipeline from raw signal processing to a live inference application.
