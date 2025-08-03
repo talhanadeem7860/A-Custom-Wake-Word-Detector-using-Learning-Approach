@@ -1,4 +1,3 @@
-A Custom Wake Word Detector using a Learning Approach
 
 Project Overview
 
